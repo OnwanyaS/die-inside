@@ -1,0 +1,15 @@
+C:\Users\ACER\OneDrive\Desktop\die inside\bin\Debug\net7.0\die inside.exe
+C:\Users\ACER\OneDrive\Desktop\die inside\bin\Debug\net7.0\die inside.deps.json
+C:\Users\ACER\OneDrive\Desktop\die inside\bin\Debug\net7.0\die inside.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\die inside\bin\Debug\net7.0\die inside.dll
+C:\Users\ACER\OneDrive\Desktop\die inside\bin\Debug\net7.0\die inside.pdb
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\die inside.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\die inside.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\die inside.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\die inside.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\die inside.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\die inside.dll
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\refint\die inside.dll
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\die inside.pdb
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\die inside.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\die inside\obj\Debug\net7.0\ref\die inside.dll
